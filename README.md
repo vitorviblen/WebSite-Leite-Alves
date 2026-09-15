@@ -1,81 +1,18 @@
-# Website Leite & Alves
+# Website Conceito Esquadrias e Vidros
 
-Projeto acadêmico desenvolvido na disciplina de **Projetos Práticos em Tecnologia da Informação**.
+Site institucional estático (HTML, CSS e JavaScript) da **Conceito Esquadrias e Vidros**, em Patos de Minas–MG. Pronto para hospedar na Vercel.
 
-O objetivo deste projeto é desenvolver um website institucional para a empresa **Leite & Alves**, utilizando tecnologias web fundamentais como HTML, CSS e JavaScript.
+## Páginas
 
----
+- `index.html` — início, sobre e localização
+- `galeria.html` — portfólio de obras
+- `contatos.html` — consultores e depoimentos
 
-## 👨‍💻 Tecnologias Utilizadas
+O agendamento abre direto no WhatsApp `(034) 3814-7600`.
 
-- HTML5
-- CSS3
-- JavaScript
-
----
-
-## 📄 Estrutura do Projeto
-
-O website será composto pelas seguintes páginas:
-
-### 🏠 Página Home
-Apresentação institucional da empresa contendo:
-
-- Informações sobre a empresa
-- Histórico da organização
-- Fachada da empresa
-- Localização
-- Ícone com link direto para o Instagram oficial
-
----
-
-### 📞 Página de Contato
-Área destinada ao atendimento e comunicação com os clientes:
-
-- Botões de acesso rápido para contato via WhatsApp ou telefone
-- Contato dos consultores comerciais
-- Contato do setor financeiro
-- Seção de depoimentos e avaliações de clientes
-
----
-
-### 🖼️ Página Showroom
-Exibição do portfólio de obras realizadas pela empresa, organizadas por categoria:
-
-- Guarda-corpos
-- Persianas
-- Pele de vidro
-- Esquadrias em geral
-- Ripados
-
----
-
-## 👥 Integrantes do Grupo
+## Integrantes
 
 - Gabriela Rodrigues
 - João Vitor Leite
 - Manuella Camargos
 - Samuel Moreira
-
----
-
-## 🎯 Objetivo do Projeto
-
-Aplicar conhecimentos práticos de desenvolvimento web, trabalhando conceitos de:
-
-- Estruturação de páginas
-- Estilização responsiva
-- Interatividade com JavaScript
-- Organização de projetos em equipe utilizando Git e GitHub
-
----
-
-## 📌 Status do Projeto
-
-🚧 Em desenvolvimento
-
----
-
-## 🔗 Repositório
-
-Projeto hospedado no GitHub para colaboração entre todos os integrantes da equipe.
