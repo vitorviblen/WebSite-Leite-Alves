@@ -1,0 +1,14 @@
+{
+  "name": "Conceito Esquadrias e Vidros",
+  "short_name": "Conceito",
+  "description": "Esquadrias de alumínio, vidros e guarda-corpos em Patos de Minas–MG.",
+  "icons": [
+    { "src": "favicon-32x32.png", "sizes": "32x32", "type": "image/png" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "favicon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#E8821A",
+  "background_color": "#2E3134",
+  "display": "browser",
+  "start_url": "/"
+}

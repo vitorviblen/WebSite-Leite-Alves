@@ -6,7 +6,12 @@
   <title>Página não encontrada – Conceito Esquadrias e Vidros</title>
   <meta name="robots" content="noindex, follow">
   <meta name="theme-color" content="#E8821A">
-  <link rel="icon" href="logo.png" type="image/png">
+  <link rel="icon" href="favicon.ico" sizes="any">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:wght@300;400;500;600;700&family=Barlow+Condensed:wght@400;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -14,7 +19,7 @@
     <a href="index.html" class="logo-wrap">
       <img src="logo.png" alt="Conceito Esquadrias e Vidros">
     </a>
-    <nav>
+    <nav aria-label="Principal">
       <ul class="nav-links" id="navLinks">
         <li><a href="index.html">Início</a></li>
         <li><a href="galeria.html">Galeria</a></li>
@@ -24,6 +29,9 @@
         </li>
       </ul>
     </nav>
+    <button class="hamburger" id="hamburger" type="button" aria-label="Abrir menu" aria-expanded="false" aria-controls="navLinks" onclick="toggleMenu()">
+      <span></span><span></span><span></span>
+    </button>
   </header>
 
   <section class="page-hero">
@@ -37,5 +45,6 @@
       <a href="https://wa.me/553438147600?text=Ol%C3%A1!%20Gostaria%20de%20agendar%20uma%20visita%20t%C3%A9cnica." class="btn-secondary" target="_blank" rel="noopener noreferrer">WhatsApp</a>
     </div>
   </section>
+  <script src="site.js" defer></script>
 </body>
 </html>
